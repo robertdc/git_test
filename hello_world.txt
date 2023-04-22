@@ -1,2 +1,4 @@
 Hello, my name is Robert and I'm learning about how to use Git as a web 
 developer!
+
+The Odin Project seems to be great, so far ...
